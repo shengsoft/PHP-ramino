@@ -1,0 +1,16 @@
+chat.elchat.net/chat15
+https://obfuscator.io
+
+66.165.225.122
+elchat
+ChaTChaT5000
+
+
+
+
+
+
+I think the main files to fix the bug are
+chatTemplateFlex.php
+is the main template file from the chat
+chatHTML54live.js
